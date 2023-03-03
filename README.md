@@ -1,0 +1,1 @@
+A project intended to hold the source code for freecodingcam.org's "Scientific Computing with Python" course.
