@@ -1,3 +1,7 @@
 fcc-venv/
 budget_app/temp.py
+budget_app/__pycache__/
 polygon_area_calculator/temp.py
+polygon_area_calculator/__pycache__/
+probability_calculator/temp.py
+probability_calculator/__pycache__/
