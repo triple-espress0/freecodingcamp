@@ -1,5 +1,5 @@
 # main.py was supplied as part of the problem and was not created by me
-import freecodingcamp.polygon_area_calculator.shape_calculator as shape_calculator
+import shape_calculator
 from unittest import main
 
 
