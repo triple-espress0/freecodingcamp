@@ -1,4 +1,4 @@
-# This entrypoint file to be used in development. Start by reading README.md
+# main.py was supplied as part of the problem and was not created by me
 from pytest import main
 
 from arithmetic_arranger import arithmetic_arranger

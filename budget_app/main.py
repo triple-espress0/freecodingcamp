@@ -1,4 +1,4 @@
-# This entrypoint file to be used in development. Start by reading README.md
+# main.py was supplied as part of the problem and was not created by me
 import budget
 from budget import create_spend_chart
 from unittest import main
