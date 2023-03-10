@@ -1,0 +1,1 @@
+A project intented to hold various ceritification paths offered by freecodecamp.org.
