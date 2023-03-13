@@ -2,12 +2,7 @@
 
   PSQL="psql --username=freecodecamp --dbname=periodic_table --tuples-only -c"
 
-  #echo "Please provide an element as an argument."
-
   GET_ELEMET_DETAILS(){
-  #ELEMENT_CHECK_RESULT=$($PSQL "SELECT atomic_number FROM elements WHERE atomic_number='$1' OR symbol LIKE '$1' OR name LIKE '$1' ")
-  #echo $ELEMENT_CHECK_RESULT
-  # Check if there is input
   if [[ -z $1 ]]
   # If not
   then
