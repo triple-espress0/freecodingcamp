@@ -1,1 +1,0 @@
-Solution to the Build a periodica table database excercise on freeCodeCamp: https://www.freecodecamp.org/learn/relational-database/build-a-periodic-table-database-project/build-a-periodic-table-database
